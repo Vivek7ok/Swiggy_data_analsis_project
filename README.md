@@ -11,7 +11,7 @@ A MySQL-based exploratory data analysis project on Swiggy restaurant and order d
 | `swiggy_data.csv` | Raw dataset — 8,680 rows of restaurant/order records |
 | `Query.sql` | All SQL queries used in the analysis |
 | `swiggy_report.docx` | Full analysis report with query outputs and insights |
-
+ 
 ---
 
 ## 🗃️ Dataset Overview
